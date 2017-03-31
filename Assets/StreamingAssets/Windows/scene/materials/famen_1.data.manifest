@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3014252444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9da2c4de9568fe93630aab4372c5ee9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/famen_1.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/famen_1.data

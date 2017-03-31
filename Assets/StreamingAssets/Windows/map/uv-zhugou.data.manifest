@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3915187713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e21dd5b817a497a5b95d0fa265ac7f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/uv-zhugou.jpg
+Dependencies: []

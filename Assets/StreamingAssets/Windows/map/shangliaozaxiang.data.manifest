@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 11721368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 647ba6efc4f86fb42f4096ea698bef81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/shangliaozaxiang.jpg
+Dependencies: []

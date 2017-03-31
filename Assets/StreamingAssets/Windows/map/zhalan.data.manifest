@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 871461164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4ec5769457e186562a6c285d1b632c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/zhalan.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2851848605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b3f514982359878159c5882484a5450
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/5.tga
+Dependencies: []

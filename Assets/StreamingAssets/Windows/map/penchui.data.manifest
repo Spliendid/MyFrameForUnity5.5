@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2049895175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 609b90a63b7fad7e76726e30140cde04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/penchui.jpg
+Dependencies: []

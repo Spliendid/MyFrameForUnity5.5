@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3959826659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5be690ba8ee4b6a5106b71aedca7976
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/chabanfa.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/chabanfa.data

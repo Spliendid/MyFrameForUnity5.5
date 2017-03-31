@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4007778386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 776759692a72f5af6af6931a20bfdfe6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/dianxiang3.tga
+Dependencies: []

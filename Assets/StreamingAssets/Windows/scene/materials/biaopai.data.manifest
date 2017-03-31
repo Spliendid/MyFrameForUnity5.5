@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 884660943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5cf0903bb429584c1af193b81c06b47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/biaopai.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/biaopai.data

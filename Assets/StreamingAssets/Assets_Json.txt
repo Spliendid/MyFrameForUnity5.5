@@ -1,0 +1,14 @@
+[
+{"Name":"sceneobj",
+"asset":{"assetsType":1,"AssetsName":"sceneobj","Path":"Windows/sceneobj.data","ab":null}},
+{"Name":"fangzi",
+"asset":{"assetsType":4,"AssetsName":"fangzi","Path":"Windows/fangzi.data","ab":null}},
+{"Name":"dimian",
+"asset":{"assetsType":4,"AssetsName":"dimian","Path":"Windows/dimian.data","ab":null}},
+{"Name":"penmei",
+"asset":{"assetsType":3,"AssetsName":"penmei","Path":"Windows/penmei.data","ab":null}},
+{"Name":"refenglu",
+"asset":{"assetsType":2,"AssetsName":"refenglu","Path":"Windows/refenglu.data","ab":null}},
+{"Name":"shaoliao",
+"asset":{"assetsType":4,"AssetsName":"shaoliao","Path":"Windows/shaoliao.data","ab":null}}
+]

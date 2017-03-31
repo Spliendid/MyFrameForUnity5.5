@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3630759528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b37b8ece295ae722a8c4a5ef51daacb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/biaoshipai_3.mat
+Dependencies: []

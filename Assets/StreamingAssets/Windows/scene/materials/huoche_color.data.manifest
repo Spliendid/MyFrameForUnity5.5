@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3593835262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf476a6e69447da1b4e09871434def2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/huoche_color.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/huoche_color.data

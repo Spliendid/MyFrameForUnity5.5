@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1060347475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 118c5118f42d91807bd4a0dab607956d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/xiaofangshuang.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/xiaofangshuang.data

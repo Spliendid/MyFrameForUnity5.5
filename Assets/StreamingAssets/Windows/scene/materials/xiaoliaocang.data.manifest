@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1048287327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76c990452761e02ac570412872e90d91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/xiaoliaocang.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/xiaoliaocang.data

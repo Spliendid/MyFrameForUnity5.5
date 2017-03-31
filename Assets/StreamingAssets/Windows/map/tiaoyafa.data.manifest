@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4213625051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abc94b1e1387a5022cada9f75892528b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/tiaoyafa.jpg
+Dependencies: []

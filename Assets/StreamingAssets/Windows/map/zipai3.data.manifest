@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1714824328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2220d562de2d3d4435d010d30001b21d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/zipai3.jpg
+Dependencies: []

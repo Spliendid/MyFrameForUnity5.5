@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3745377593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52f31aaf1632f3c5cf6dfcca529d3d69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/luya.jpg
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2864925010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f77fec6dd8f267ea8b843aa9e9fe337d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/lumian111.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/lumian111.data

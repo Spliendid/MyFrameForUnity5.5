@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3660921752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 754a34e1424bd303bfce5298a9c655c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 593a0bc0d9eeda1d24ce601efe8ca648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/luding_zhengqiguan.FBX
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaolumeiqifangsanfa.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen_1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jinshua.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/luding_zhengqiguandao.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5206480.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/chuchen.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5206479.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen (2).data

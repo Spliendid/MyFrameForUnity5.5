@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 554412628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e04e3b5c7a468b40641eb35ca073bbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/GL_luti4.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/gl_luti4.data

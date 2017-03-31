@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4121327320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 816ab70dc252d130aa5f029615514bbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/chutiechangdimian1.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/chutiechangdimian1.data

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 413455150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 026ca17881a9e8c37dace1dba1c56178
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/jiandanfangzi.jpg
+Dependencies: []

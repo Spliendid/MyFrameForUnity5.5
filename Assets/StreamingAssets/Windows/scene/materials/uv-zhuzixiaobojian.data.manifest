@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1045056652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e872b256be8cb6d2dd99154ed5c7ee1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/uv-zhuzixiaobojian.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/uv-zhuzixiaobojian.data

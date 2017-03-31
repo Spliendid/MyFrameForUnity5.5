@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2178310057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a151516ec7d3c4c12e7e66620974fb3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/chengdou.jpg
+Dependencies: []

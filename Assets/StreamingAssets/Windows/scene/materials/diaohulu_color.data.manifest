@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 721831172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23c912f05f02f0e9fde704457523a8da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/diaohulu_color.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/diaohulu_color.data

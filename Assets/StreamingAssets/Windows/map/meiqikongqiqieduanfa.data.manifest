@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3170396535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: decc2d3dd319f00212bc44dc60694848
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/meiqikongqiqieduanfa.jpg
+Dependencies: []

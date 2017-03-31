@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 381762260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f43049956a8a5cd2767d9203980a4dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/pingtai_rfl.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/pingtai_rfl.data

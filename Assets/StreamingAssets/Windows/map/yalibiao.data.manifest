@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2201395323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baab6b6d70210034e730dcc571bd6bd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/yalibiao.jpg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3524699946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1d42743b91c786c5528b5a928288b62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/penmeikuangjia.jpg
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2859922887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0010d0a870e951b344a58a02ffbd484f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 593a0bc0d9eeda1d24ce601efe8ca648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/gaolu_guandao01.FBX
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluzhouweidaguandao.data

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2165345831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e328fabcb11d04067b364a3254759698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/shangliaoxiaochepidai.jpg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 307856753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13b10c9437c6e6b3037924816c02f184
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/lumian_1.jpg
+Dependencies: []

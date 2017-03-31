@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1766476137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86f743d06c340023e9e740174232fb3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/baojingqi_colour.jpg
+Dependencies: []

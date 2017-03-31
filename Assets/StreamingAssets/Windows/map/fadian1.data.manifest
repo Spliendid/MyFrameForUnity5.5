@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 319062557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7fd6988c8eb5a86812cfa8303cf6c32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/fadian1.jpg
+Dependencies: []

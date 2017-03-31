@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 108711452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a706fffce1394c2a1ecb37c59b861df6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 593a0bc0d9eeda1d24ce601efe8ca648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/gaolu.FBX
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/lumian111.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/langan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/tubiao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaolumeiqifangsanfa.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zhijia_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/baojingdeng_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-pingtai.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/paiyanqizhao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/lvse.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/shangliaopidai.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-kua.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen_1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/lanse.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fangjian.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/dianti.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluzhouweidaguandao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/refengludizuo.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti14.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaolubenti.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jinshua.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/nipaoji-uv.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zipai3.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti5.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/lvhuachi (1).data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/dunzi_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/loucengdimian-1.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5044.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/tiianche.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zhichengjiegou3.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti4.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/daxiaotaolenqueshuiguan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/lvhuachi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zhizhuxianaihuozhuan.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5043.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/1111.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluzhouweixiaoguandao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti12.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5045.data'
+- "D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/j\u2014\u2014huoche.data"
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/16 - default.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-zhugou.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/09 - default.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluneibukuangjia2.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-zhuzi.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5204198.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_dianji.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti8.data
+- "D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/\u672A\u6807\u9898-1.data"
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fadianji.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/wuding_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zipai2.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/shazi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zipai.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/qqq.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/liudongbaizui.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/yuleiguan_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluneibukuangjia1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/chutiechangdimian.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_liaodou.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/xiuxishi111.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaolubentiluding.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti11.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti13.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/aaaaa.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5047.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/cc.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zipai4.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5046.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti7.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/chutiechangdimian1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-zhuzixiaobojian.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/c.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti15.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/changfang.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti10.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti3.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/kaitiegou-guagou.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/50ttianche.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/shigukaiguan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uneibukuangjia1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/kaitiekouji-uv.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/biaoshihuizong.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/uv-gaoluguanzi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/huoche_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen (2).data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/refengweiguan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti9.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/pingtai_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gl_luti6.data

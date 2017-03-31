@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 179491627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fb6628131770a117ed3acbfc95e06d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/14.jpg
+Dependencies: []

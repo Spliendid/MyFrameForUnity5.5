@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2723244896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b8e91d8ae79985065f070918a317c3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/yuleiguan_color.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/yuleiguan_color.data

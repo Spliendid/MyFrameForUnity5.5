@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 760155862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6e2c1d10ca57802a0459d5f62700662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/jiqi.jpg
+Dependencies: []

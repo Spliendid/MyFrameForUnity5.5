@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3203556810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab70015c04c5a3e1d90cce0d0f3b49a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 593a0bc0d9eeda1d24ce601efe8ca648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resource/fangzi.FBX
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fengjifang3.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fengjifang2.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jiandanfangzi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fadian1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/langan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/tubiao.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #3696.data'

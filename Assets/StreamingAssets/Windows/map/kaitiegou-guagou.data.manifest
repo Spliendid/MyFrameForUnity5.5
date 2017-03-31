@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2641897006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6d8d32eb0cb0afcb8531348c095eac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/KAITIEGOU-GUAGOU.jpg
+Dependencies: []

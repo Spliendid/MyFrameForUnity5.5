@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3476193532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f04498b5f10657f8b9e8cdc19684a21e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/zhichengjiegou3.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/zhichengjiegou3.data

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1689464388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcf2d2870d8c841ea8927553dfab882f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/lvhuachi.mat
+Dependencies: []

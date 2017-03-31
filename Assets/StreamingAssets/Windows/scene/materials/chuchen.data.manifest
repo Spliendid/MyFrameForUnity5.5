@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1033147221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86a64dc3b98ad4d1c9ce1db715fc37db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/CHUCHEN.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/chuchen.data

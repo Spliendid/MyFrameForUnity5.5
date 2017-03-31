@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 988598204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57bc33368c695e5b011db58b009391f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Assets/scene/Materials/J\u2014\u2014huoche.mat"
+Dependencies:
+- "D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/j\u2014\u2014huoche.data"

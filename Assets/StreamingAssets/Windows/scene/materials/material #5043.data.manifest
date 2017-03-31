@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1913588150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 341b6905d3d161368f9a46252262d9a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- 'Assets/Assets/scene/Materials/Material #5043.mat'
+Dependencies: []

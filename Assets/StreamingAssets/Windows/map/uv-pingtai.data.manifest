@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3146282553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 572cf541aae84e69c743e9dc03f6b784
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/uv-pingtai.jpg
+Dependencies: []

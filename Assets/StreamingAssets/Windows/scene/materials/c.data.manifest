@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 272638747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7150f53a822a1d95ef9a17d9205d451a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/C.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/c.data

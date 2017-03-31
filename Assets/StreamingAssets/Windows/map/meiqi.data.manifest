@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 583624124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b86cb291601a1f99524596c4ab2907e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/meiqi.jpg
+Dependencies: []

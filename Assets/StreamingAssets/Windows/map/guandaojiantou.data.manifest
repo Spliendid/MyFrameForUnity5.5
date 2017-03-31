@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 232865058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff6d3537508082afa8288066d3978030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/guandaojiantou.jpg
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2549095175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c57cd560177e331a5c098d97767a8cd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/zhalan.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/zhalan.data

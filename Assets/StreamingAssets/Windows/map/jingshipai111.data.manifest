@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 178989882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39eee6da3bbcf081756c9eea701b6b4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/jingshipai111.jpg
+Dependencies: []

@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3168194981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3fc986f207912a4e49cee926a541ff1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 593a0bc0d9eeda1d24ce601efe8ca648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resource/refenglu.FBX
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jiandanfangzi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/langan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/tubiao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaolumeiqifangsanfa.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zhijia_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jiantou.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/refenglu_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/yaqiguan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/zhuranfengji.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/pingtai_rfl.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fieqifa.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/meiqikongqiqieduanfa.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/meiqi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/diaohulu.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/deng.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fieqifa1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fanmen2.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen11.data
+- 'D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/material #5633.data'
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/guandaojiantou.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/jiandanfangzi1.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/diaohulu_color.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/famen2.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/yangqi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/gaoluzhouweidaguandao.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/refengludizuo.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/biaoshipan.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/guandaomingcheng.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/baojningyi.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/tianche.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/daoliuxiufeng.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/dianxiang3.data
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/scene/materials/fanghua.data

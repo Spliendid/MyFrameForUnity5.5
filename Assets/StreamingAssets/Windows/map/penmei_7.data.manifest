@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3259590413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfc452b36616d09cf903d84d86675730
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/penmei_7.jpg
+Dependencies: []

@@ -1,0 +1,5 @@
+[
+{"Name":"sceneobj","FatherName":null,"localPos":{"x":1.0,"y":1.0,"z":1.0},"LocalEuler":{"x":0.0,"y":90.0,"z":0.0},"LocalScale":null,"addComponentArray":null},
+{"Name":"dimian","FatherName":"sceneobj","localPos":{"x":1.0,"y":1.0,"z":1.0},"LocalEuler":{"x":0.0,"y":90.0,"z":0.0},"LocalScale":null,"addComponentArray":null},
+{"Name":"fangzi","FatherName":null,"localPos":{"x":1.0,"y":1.0,"z":1.0},"LocalEuler":{"x":0.0,"y":90.0,"z":0.0},"LocalScale":null,"addComponentArray":null}
+]

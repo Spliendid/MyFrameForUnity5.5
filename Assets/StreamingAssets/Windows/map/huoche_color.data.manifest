@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3567701262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b978c49c608219c8421614927051bad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/huoche_color.jpg
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2485431427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64edef499145a91b3bb5fea87bb9ef66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/refengludizuo.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/refengludizuo.data

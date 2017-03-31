@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 650435735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bd74f6fbaf9139b05355d60e754358d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/kaitiekouji-UV.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/kaitiekouji-uv.data

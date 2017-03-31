@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 783785752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e18f1f93fe6571ef89b713d86073b15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/yaqiguan.jpg
+Dependencies: []

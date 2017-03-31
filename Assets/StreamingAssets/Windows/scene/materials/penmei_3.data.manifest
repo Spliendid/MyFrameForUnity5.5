@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1559587069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca90f03aa85690cdda52d0a38115a613
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/penmei_3.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/penmei_3.data

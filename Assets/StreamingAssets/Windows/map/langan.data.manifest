@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 974992029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e0427e2d76f6f2efbc0a580ffb40829
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/langan.png
+Dependencies: []

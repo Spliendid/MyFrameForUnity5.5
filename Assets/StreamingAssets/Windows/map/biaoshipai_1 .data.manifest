@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3111083833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25bba4f8a6d9eaf029ebefe0454c2360
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/biaoshipai_1 .jpg
+Dependencies: []

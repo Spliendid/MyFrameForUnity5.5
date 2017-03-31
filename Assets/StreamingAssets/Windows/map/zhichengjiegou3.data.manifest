@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3030577360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69276c5cf80de96dc0dd4e3b6add57e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/zhichengjiegou3.jpg
+Dependencies: []

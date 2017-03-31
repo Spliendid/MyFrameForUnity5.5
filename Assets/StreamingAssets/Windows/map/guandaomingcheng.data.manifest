@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2471865419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ab004072c59293948908da742580bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/guandaomingcheng.jpg
+Dependencies: []

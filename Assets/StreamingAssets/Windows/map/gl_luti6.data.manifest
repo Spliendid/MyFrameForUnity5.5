@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1641197229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0562de9e8b622fff48a84d3088642bd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/GL_luti6.jpg
+Dependencies: []

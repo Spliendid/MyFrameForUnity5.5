@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 267111471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f9ac8407f7bb353ede779393e797d3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/map/chenglianghezhendong.jpg
+Dependencies: []

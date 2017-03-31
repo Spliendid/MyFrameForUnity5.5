@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4028844537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92449bc1fa3c6f9b8ba152e4b225f8dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/biaoshihuizong.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/biaoshihuizong.data

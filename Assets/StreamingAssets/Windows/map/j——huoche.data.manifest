@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 69531191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 654c0bbeea6794ba6cbf64dbae5eaae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Assets/map/J\u2014\u2014huoche.jpg"
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4140933771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea5ae9ec79b0705318ccd635124ebcbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/scene/Materials/14.mat
+Dependencies:
+- D:/VRTest/MyFrame/Assets/StreamingAssets/Windows/map/14.data
